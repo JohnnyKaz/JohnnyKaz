@@ -1,11 +1,11 @@
 <img src="https://user-images.githubusercontent.com/70910393/148864194-b174c8c7-4af4-40d6-909b-44f6452043a3.png" width="180" >
 
-<h2> Hi there!👋 I'm Johnny.</h2>
+<h2> Hi there!👋 I'm John.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Computer Science at University of Crete.
-- 📌 &nbsp; Interests: signal processing, machine learning, algorithmic/computational theory.
+- 📌 &nbsp; Interests: signal processing, machine learning, deep learning, algorithmic/computational theory.
 
 <h3> 🛠 &nbsp;Technical Skills</h3>
 
