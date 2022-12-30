@@ -6,6 +6,7 @@
 
 - 🎓 &nbsp; Studying Computer Science at University of Crete.
 - 📌 &nbsp; Interests: signal processing, machine learning, deep learning, algorithmic/computational theory.
+- 🔗 &nbsp; <a href="https://johnnykaz.github.io" target="_blank">Website</a>
 
 <h3> 🛠 &nbsp;Technical Skills</h3>
 
